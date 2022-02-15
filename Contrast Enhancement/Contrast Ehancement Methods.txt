@@ -1,0 +1,15 @@
+Image Enhancement:
+
+Image enhancement has a fundamental piece in digital image processing. Images like satellite images, aeronautical images, oceanography images, medical images and real-life images suffer bad contrast and noise. The purpose of image enhancement is to enhance the contrast and remove the noise to raise image quality. The image enhancement technique especially contrasts enhancement distinct from one field to another depending on its objective.
+
+Contrast enhancement
+
+Contrast enhancement is a technique that transforms the intensity values of an input image to improving quality of the visual image. In the last few decades, advanced technology of contrast enhancement has been widely developed. There are two groups of contrast enhancement methods, such as direct and indirect contrast methods.
+The main goal of contrast enhancement is to distribute the pixel values consistently in the dynamic range of gray  levels and to develop an output image based on linear cumulative histogram
+
+
+
+Reference:
+
+https://ieeexplore.ieee.org/document/8528579
+
